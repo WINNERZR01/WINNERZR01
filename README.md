@@ -1,2 +1,1 @@
-![WINNERZR01's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=WINNERZR01&show_icons=true&count_private=true&theme=gotham)
-![WINNERZR01's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WINNERZR01&layout=compact&hide_border=true&langs_count=10)
+[![WINNERZR01's GitHub stats](https://github-readme-stats.vercel.app/api?username=WINNERZR01&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
