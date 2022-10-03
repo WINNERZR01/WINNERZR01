@@ -1,13 +1,13 @@
-<!-- 动态打字效果 -->
+<!-- dynamic typing -->
 <h1 align="center">
   <a href="https://Winnerzr.ml"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5D3B8B&center=true&width=435&lines=Where+there+is+a+will%2Cthere+is+a+way+" alt="Typing SVG" /></a>
 </h1>
 
-<!-- 敲代码的图片 -->
+<!-- only img -->
 <div align="center" ><img order-radius="100px" width="100%" src="https://github.com/WINNERZR01/ImageHosting/blob/main/writeimg/giphydasd.gif?raw=true"/></div>
 <br>
 
-<!-- 个人资料徽标 -->
+<!-- badge -->
 <div align="center">
   <a href="https://Winnerzr.ml"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/nftjackceri"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
@@ -16,29 +16,12 @@
   <a href="https://space.bilibili.com/386706516"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/winnerzr"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <!-- <a href="https://winnerzr.ml"><img src="https://visitor-badge.glitch.me/badge?page_id=WINNERZR01.winnerzr&left_color=green&right_color=red"></a>&emsp; -->
+  
+#  🙋 Targets
+<p>✍️&nbsp;&nbsp;2022年开始写GitHub的自我介绍，希望自己能够改变，变得不再胆怯，更加热爱生活。</p>
+<p>&emsp;&emsp;2022年也是我研究生生活的第一年，希望自己多拿奖学金，多多学习新知识，多多锻炼，早睡早起，毕业时将又是一个不一样的自己，加油！</p>
 
-
-<!-- 贪吃蛇代码贡献图 -->
-
-
-#  🙋 Hello
-
-<p>✍️&nbsp;&nbsp;留白</p>
-<p>&emsp;&emsp;留白</p>
-<p>&emsp;&emsp;留白</p>
-<p>&emsp;&emsp;留白</p>
-
-
-
-<!-- 比较好的开源项目卡片 -->
-<!-- <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div> -->
-
-💪 正在学习: 
+💪 Learning：
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%4285F4.svg?style=flat-square&logo=c&logoColor=white)
@@ -54,7 +37,7 @@
 
 
 
-🧠 计划学习:
+🧠 Plan-To-Learn：
 
 &emsp;&emsp;
 ![R](https://img.shields.io/badge/r-E34F26.svg?style=flat-square&logo=r&logoColor=white)
@@ -65,7 +48,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=javascript)
 ![Shell Script](https://img.shields.io/badge/shell_script-E34F26.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-🧰 常用的工具:
+🧰 Tools：
 
 &emsp;&emsp; 
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
@@ -76,7 +59,7 @@
 
 # 🚀 Status
 
-<!-- GitHub奖杯🏆 -->
+<!-- GitHub trophy -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=WINNERZR01&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 <div align="center">
@@ -90,10 +73,7 @@
 
 <!-- Wakatime Graph-->
 
-
-
-
-![](https://github.com/WINNERZR01/WINNERZR01/blob/main/githubskyline.gif?raw=true)
+ ![](https://github.com/WINNERZR01/WINNERZR01/blob/main/githubskyline.gif?raw=true)
 [<img src="https://github-readme-stats.vercel.app/api?username=WINNERZR01&show_icons=true&theme=jolly" alt="WINNERZR01's GitHub stats" style="zoom: 100%;" />](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=WINNERZR01&theme=jolly&locale=zh)](https://git.io/streak-stats)
 
 <!-- wakatime 统计 -->
@@ -103,19 +83,7 @@
   
 <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
-
-> 🏆 737 Contributions in the Year 2022
- > 
-> 📦 526.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
+📅 **Day analysis** 
 
 ```text
 🌞 Morning    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
@@ -124,7 +92,7 @@
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **Week analysis** 
 
 ```text
 Monday       76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.68% 
@@ -138,7 +106,7 @@ Sunday       57 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📅 **Time spending** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -157,7 +125,6 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in CSS** 
 
 ```text
 CSS                      19 repos            █████████████░░░░░░░░░░░░   52.78% 
@@ -172,8 +139,12 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 </td>
 </tr>
 </table>
-
+  
+<!-- snake contribution -->
+  
 <div align="center"><img src="https://raw.githubusercontent.com/WINNERZR01/WINNERZR01/output/mysnake.gif" /></div>
+
+<!--  github-activity  -->
 
 <table align="center">
   <tr>
@@ -183,6 +154,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
   </tr>
 </table>
 
+<!-- Wakatime -->
 
 <table>
   <tr>
@@ -194,7 +166,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
     </td>
   </tr>
 </table>
-<!-- GitHub Activity Graph -->
 
 
 
