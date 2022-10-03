@@ -91,20 +91,6 @@
 </div>
 <br>
 
-<div align="center"><img src="https://raw.githubusercontent.com/WINNERZR01/WINNERZR01/output/mysnake.gif" /></div>
-
-![](https://github.com/WINNERZR01/WINNERZR01/blob/main/githubskyline.gif?raw=true)
-[<img src="https://github-readme-stats.vercel.app/api?username=WINNERZR01&show_icons=true&theme=jolly" alt="WINNERZR01's GitHub stats" style="zoom: 100%;" />](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=WINNERZR01&theme=jolly&locale=zh)](https://git.io/streak-stats)
-<!-- GitHub Activity Graph -->
-
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=WINNERZR01&theme=github-light" />
-    </td>
-  </tr>
-</table>
-
 <!-- Wakatime Graph-->
 <table>
   <tr>
@@ -192,6 +178,23 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 </td>
 </tr>
 </table>
+
+
+![](https://github.com/WINNERZR01/WINNERZR01/blob/main/githubskyline.gif?raw=true)
+[<img src="https://github-readme-stats.vercel.app/api?username=WINNERZR01&show_icons=true&theme=jolly" alt="WINNERZR01's GitHub stats" style="zoom: 100%;" />](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=WINNERZR01&theme=jolly&locale=zh)](https://git.io/streak-stats)
+
+<div align="center"><img src="https://raw.githubusercontent.com/WINNERZR01/WINNERZR01/output/mysnake.gif" /></div>
+<!-- GitHub Activity Graph -->
+
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=WINNERZR01&theme=github-light" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 <!-- just img -->
