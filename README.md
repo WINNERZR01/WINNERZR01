@@ -4,7 +4,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" width="50%" src="https://cdn.jsdelivr.net/gh/WINNERZR01/ImageHosting/writeimg/giphy0001.gif"/></div>
+<div align="center" ><img order-radius="100px" width="100%" src="https://github.com/WINNERZR01/ImageHosting/blob/main/writeimg/giphydasd.gif?raw=true"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
