@@ -92,16 +92,7 @@
 <br>
 
 <!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@a1464820-8198-47b0-a0b9-ad8ffb7a1c44/c73c90ea-bb90-4449-b416-a2eb8c4c4446.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@a1464820-8198-47b0-a0b9-ad8ffb7a1c44/1c309b92-ff44-4bca-91fe-4bcdd116ab4b.svg" width="500"/>
-    </td>
-  </tr>
-</table>
+
 <!-- wakatime 统计 -->
 <table align="center">
 <tr>
@@ -184,7 +175,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 [<img src="https://github-readme-stats.vercel.app/api?username=WINNERZR01&show_icons=true&theme=jolly" alt="WINNERZR01's GitHub stats" style="zoom: 100%;" />](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=WINNERZR01&theme=jolly&locale=zh)](https://git.io/streak-stats)
 
 <div align="center"><img src="https://raw.githubusercontent.com/WINNERZR01/WINNERZR01/output/mysnake.gif" /></div>
-<!-- GitHub Activity Graph -->
 
 <table align="center">
   <tr>
@@ -193,6 +183,19 @@ SCSS                     1 repo              ░░░░░░░░░░░�
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://wakatime.com/share/@a1464820-8198-47b0-a0b9-ad8ffb7a1c44/c73c90ea-bb90-4449-b416-a2eb8c4c4446.svg" width="500"/>
+    </td>
+    <td>
+      <img src="https://wakatime.com/share/@a1464820-8198-47b0-a0b9-ad8ffb7a1c44/1c309b92-ff44-4bca-91fe-4bcdd116ab4b.svg" width="500"/>
+    </td>
+  </tr>
+</table>
+<!-- GitHub Activity Graph -->
 
 
 
