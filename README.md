@@ -4,7 +4,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" width="350" src="https://cdn.jsdelivr.net/gh/WINNERZR01/ImageHosting/writeimg/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f4e534879672e676966.gif"/></div>
+<div align="center" ><img order-radius="100px" width="50%" src="https://cdn.jsdelivr.net/gh/WINNERZR01/ImageHosting/writeimg/giphy0001.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
@@ -30,7 +30,7 @@
 <p>&emsp;&emsp;留白</p>
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=WINNERZR01&show_icons=true&theme=shades-of-purple" alt="WINNERZR01's GitHub stats" style="zoom: 150%;" />](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 比较好的开源项目卡片 -->
 <!-- <div align="center">
 <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
@@ -75,6 +75,10 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+# 🚀 Status
+[<img src="https://github-readme-stats.vercel.app/api?username=WINNERZR01&show_icons=true&theme=jolly" alt="WINNERZR01's GitHub stats" style="zoom: 100%;" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WINNERZR01&theme=jolly&locale=zh)](https://git.io/streak-stats)
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -94,15 +98,7 @@
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
-# 🚀 Actions
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<br>
+<!-- # 🚀 Actions
 
 <!-- metrics 基础资料
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
@@ -117,8 +113,7 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WINNERZR01&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WINNERZR01" />
 </div>
 <br>
 
@@ -212,7 +207,7 @@ Windows                  1 hr 9 mins         ███████████�
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=WINNERZR01&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=WINNERZR01&theme=github-light" />
     </td>
   </tr>
 </table>
